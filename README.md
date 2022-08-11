@@ -12,5 +12,5 @@ learn slower, though the agent can see long horizons.</li>
 </ul>
 
 My choice of hyperparameters allowed to see a convergence with a relatively small number of iterations (600).
-The latest implementation can be found in the Gym Cartpole Q-Learning.ipynb
+The latest implementation can be found in the [Jupyter Notebook](https://github.com/skarussel/Q-Learning-Gym-Cartpole/blob/master/Gym%20Cartpole%20Q-Learning.ipynb)
 

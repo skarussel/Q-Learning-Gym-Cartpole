@@ -1,4 +1,5 @@
 shared/
-ipynb_checkpoints/
+archive/
+.ipynb_checkpoints/
 __pycache__/
-bins.py
+
